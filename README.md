@@ -1,7 +1,5 @@
 <div align="center">
   
-  ### HVTN / README.md
-  
   # Heng Vathanak
   
   **Web Developer** | **Software Engineering Student** | **Problem Solver**
