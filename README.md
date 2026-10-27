@@ -30,7 +30,7 @@ My focus as a developer is **problem solving** and creating practical solutions.
 
 ---
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 #### Languages
 | Skill      | Level        | Percentage |
@@ -75,7 +75,7 @@ My focus as a developer is **problem solving** and creating practical solutions.
 
 ---
 
-### 🎓 Education
+### Education
 
 **BELTEI International University**  
 2024 – Present  
@@ -105,7 +105,7 @@ High School Diploma in General Education (Bac II) • Siem Reap, Cambodia
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 - 🌐 Website: [hvtn.link](https://www.hvtn.link)
 - 💻 GitHub: [@hengvathanak](https://github.com/hengvathanak)
