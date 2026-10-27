@@ -87,7 +87,7 @@ High School Diploma in General Education (Bac II) • Siem Reap, Cambodia
 
 ---
 
-### 🔥 Favorite Tech Stack
+### Favorite Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
