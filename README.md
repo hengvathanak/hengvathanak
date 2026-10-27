@@ -9,11 +9,6 @@
   *"Every line of code is like a clue in a treasure hunt game, taking us closer to the desired solution."*
   
   <br>
-  
-  [![Website](https://img.shields.io/badge/Website-hvtn.link-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hvtn.link)
-  [![GitHub](https://img.shields.io/badge/GitHub-hengvathanak-black?style=for-the-badge&logo=github)](https://github.com/hengvathanak)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/hengvathanak)
-  
 </div>
 
 ---
@@ -106,9 +101,9 @@ High School Diploma in General Education (Bac II) • Siem Reap, Cambodia
 
 ### Connect with me
 
-- 🌐 Website: [hvtn.link](https://www.hvtn.link)
-- 💻 GitHub: [@hengvathanak](https://github.com/hengvathanak)
-- ✉️ Email: [hengvathanak.dev@gmail.com](mailto:hengvathanak.dev@gmail.com)
+  [![Website](https://img.shields.io/badge/Website-hvtn.link-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hvtn.link)
+  [![GitHub](https://img.shields.io/badge/GitHub-hengvathanak-black?style=for-the-badge&logo=github)](https://github.com/hengvathanak)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/hengvathanak)
 
 ---
 
